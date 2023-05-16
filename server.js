@@ -18,7 +18,6 @@ app.use(cors({
   'http://localhost:3000',
   'http://localhost:3001',
   'pulsepls.com'
-
 ],
   credentials: true,
 }));
